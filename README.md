@@ -12,12 +12,13 @@ SCREENSHOTS </br>
 LIGHT MODE </br>
 ![Screenshot 2025-06-17 010309](https://github.com/user-attachments/assets/bdcf397d-52b7-4480-9a98-3b18b253825c)
 
-</br>
-DARK MODE </br>
-![Screenshot 2025-06-17 010339](https://github.com/user-attachments/assets/59834f33-c13b-4c6b-a688-f233a59d46c1)
 
-</br>
-FILETER MODE </br>
-![Screenshot 2025-06-17 010416](https://github.com/user-attachments/assets/df2bdda6-69d7-454a-afd0-4f15d1238b91)
+DARK MODE </br>
+![Screenshot 2025-06-17 010339](https://github.com/user-attachments/assets/273baa97-3995-4ae4-a126-599efeea4662)
+
+
+FILTER MODE </br>
+![Screenshot 2025-06-17 010416](https://github.com/user-attachments/assets/865625da-d8d9-443a-93ed-dfb127ed21b4)
+
 
 </br>
