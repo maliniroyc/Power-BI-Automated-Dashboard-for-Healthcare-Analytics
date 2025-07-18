@@ -116,8 +116,8 @@ DARK MODE </br>
 
 | File                        | Description                   |
 | --------------------------- | ----------------------------- |
-| `Healthcare_Dashboard.pbix` | Main Power BI dashboard       |
-| `financial_data.xlsx`       | Source dataset                |
+| `Healthcare Insight Dashboard.pbix` | Main Power BI dashboard       |
+| `dataset.csv`       | Source dataset                |
 | `README.md`                 | Project documentation         |
-| `dashboard_slides.pptx`     | Portfolio presentation slides |
+| `background`     | Power Point slides |
 
