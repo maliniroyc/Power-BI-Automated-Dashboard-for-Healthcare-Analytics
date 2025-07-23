@@ -1,12 +1,3 @@
-# Power-BI-Automated-Dashboard-for-Healthcare-Analytics
-
-## Healthcare Financial Dashboard (Power BI): </br>
-I built a Power BI dashboard that streamlined financial reporting for a simulated healthcare center, reducing manual analysis time by 50% and enabling real-time tracking of KPIs like Billing Amount, Treatment Cost, and Out-of-Pocket expenses. The dashboard revealed critical trends and procedure-level billing insights by state and provider, supporting data-driven decisions in healthcare management. </br>
-• Financial Analysis: Uncovered inefficiencies and optimized cost breakdowns across key billing categories. </br>
-• Provider Insights: Evaluated provider performance based on treatment and insurance-related metrics. </br>
-• Trends and KPIs: Identified billing patterns and calculated KPI averages to highlight high-cost procedures and regions. </br>
-• Tools Used: Power BI, Power Query, DAX, PowerPoint </br>
-
 📊 Healthcare Financial Dashboard
 ---------------------------------
 **Overview:**
@@ -38,7 +29,7 @@ Format: Tabular (.csv/.xlsx)
 
 📈 Data Analysis Steps (Power BI)
 -----------------------------------
-Data Loading & Cleaning
+**Data Loading & Cleaning**
 
 Imported raw financial data from Excel/CSV.
 
@@ -46,21 +37,15 @@ Cleaned column headers, renamed for clarity.
 
 Ensured proper data types (e.g., Currency, Date, Text).
 
-Data Modeling
+**Data Modeling**
 
 Defined relationships between entities: Location ↔ Procedure ↔ Department ↔ Financials.
 
-Created calendar table for time-based filtering.
+Created Date table for date-based filtering.
 
 DAX Measures Created
 
-Total Billing Amount
-
-Average Billing per Visit
-
-Average Treatment Cost, Out-of-Pocket Cost
-
-% by Procedure, % by Department
+Total Billing Amount, Average Billing per Visit, Average Treatment Cost, Out-of-Pocket Cost, % by Procedure, % by Department
 
 **KPI Visuals**
 
@@ -84,7 +69,7 @@ Tooltips with % Share and absolute figures
 
 Identified X-Ray and CT Scans as top contributors to billing
 
-Orthopedics and Cardiology drove 50%+ of total costs
+Orthopedics and Cardiology drove 50% of total costs
 
 Fractures and Asthma often required Inpatient care
 
@@ -117,7 +102,15 @@ DARK MODE </br>
 | File                        | Description                   |
 | --------------------------- | ----------------------------- |
 | `Healthcare Insight Dashboard.pbix` | Main Power BI dashboard       |
-| `dataset.csv`       | Source dataset                |
+| `.csv`       | Source dataset                |
 | `README.md`                 | Project documentation         |
-| `background`     | Power Point slides |
 
+## Author
+Malini Roy Choudhury - Data Analyst | Freelancer
+
+-------------------------------------------------
+I built a Power BI dashboard that streamlined financial reporting for a simulated healthcare center, reducing manual analysis time by 50% and enabling real-time tracking of KPIs like Billing Amount, Treatment Cost, and Out-of-Pocket expenses. The dashboard revealed critical trends and procedure-level billing insights by state and provider, supporting data-driven decisions in healthcare management. </br>
+• Financial Analysis: Uncovered inefficiencies and optimized cost breakdowns across key billing categories. </br>
+• Provider Insights: Evaluated provider performance based on treatment and insurance-related metrics. </br>
+• Trends and KPIs: Identified billing patterns and calculated KPI averages to highlight high-cost procedures and regions. </br>
+• Tools Used: Power BI, Power Query, DAX, PowerPoint </br>
